@@ -4,7 +4,8 @@
   "description": "## Step 1 ```bash npm install webpack -g ```",
   "main": "app.js",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "UglifyJS": "webpack --config webpack-production.config.js -p"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "jshint": "^2.9.5",
     "jshint-loader": "^0.8.4",
     "node-libs-browser": "^2.1.0",
+    "strip-loader": "^0.1.2",
     "webpack": "^3.10.0"
   }
 }

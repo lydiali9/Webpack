@@ -53,3 +53,8 @@ webpack-dev-server
 ```bash
 npm install babel-core babel-loader babel-preset-es2015 jshint jshint-loader node-libs-browser --save-dev
 ```
+
+## Step 8
+```bash
+npm install strip-loader --save-dev | npm install http-server -g
+```

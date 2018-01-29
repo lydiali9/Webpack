@@ -4,4 +4,4 @@ let login = (username, password) => {
     }
 };
 
-login("admin", "adnin");
+login("admin", "admin");
