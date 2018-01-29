@@ -1,3 +1,3 @@
-document.write("Hi lynn li");
+document.write("Hi lynn li!!");
 
 console.log("App loaded");
