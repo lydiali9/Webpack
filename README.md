@@ -58,3 +58,10 @@ npm install babel-core babel-loader babel-preset-es2015 jshint jshint-loader nod
 ```bash
 npm install strip-loader --save-dev | npm install http-server -g
 ```
+
+```bash
+webpack-dev-server -d
+```
+
+As above command, You can use the key of debugger to debug.
+
