@@ -49,3 +49,7 @@ webpack-dev-server
 
 * Open URL `http://localhost:8080/webpack-dev-server/`], `http://localhost:8080/` or `http://localhost:8080/index.html` or `http://localhost:8080/webpack-dev-server/index.html` in the browser.
 
+## Step 7
+```bash
+npm install babel-core babel-loader babel-preset-es2015 jshint jshint-loader node-libs-browser --save-dev
+```
