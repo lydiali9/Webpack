@@ -8,6 +8,13 @@ module.exports = {
     module: {
         loaders: [
             {
+                test: /\.js$/,
+                exclude: /node_modules/,
+                loader: 'jshint-loader',
+                //this is similar to defining a preloader
+                enforce: 'pre'
+            },
+            {
                 test: /\.es6$/,
                 exclude: /node_modules/,
                 loaders: "babel-loader"
