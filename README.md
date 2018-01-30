@@ -65,3 +65,12 @@ webpack-dev-server -d
 
 As above command, You can use the key of debugger to debug.
 
+## Step 9
+```bash
+npm install css-loader style-loader --save-dev
+```
+
+## Step 10
+```bash
+npm install sass-loader --save-dev
+```
