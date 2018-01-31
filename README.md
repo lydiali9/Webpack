@@ -74,3 +74,18 @@ npm install css-loader style-loader --save-dev
 ```bash
 npm install sass-loader --save-dev
 ```
+
+## Step 11
+```bash
+npm install extract-text-webpack-plugin --save-dev
+```
+
+## Step 12
+```bash
+npm install autoprefixer-loader --save-dev
+```
+
+## Step 13
+```bash
+npm install url-loader --sve-dev
+```
