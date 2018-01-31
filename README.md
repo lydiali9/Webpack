@@ -89,3 +89,19 @@ npm install autoprefixer-loader --save-dev
 ```bash
 npm install url-loader --sve-dev
 ```
+
+## Step 14
+```bash
+npm install ejs express morgan
+npm install webpack-dev-middleware --save -dev
+```
+
+## Step 15
+```bash
+npm install json-loader strip-json-comments --save-dev
+```
+
+## Step 16
+```bash
+npm install babel-core babel-loader timestamp-webpack-plugin --save-dev
+```
