@@ -1,3 +1,3 @@
 console.log("App loaded");
 
-require('../css/app.css');
+require('../css/app.scss');
